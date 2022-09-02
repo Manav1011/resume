@@ -4,7 +4,7 @@ function App() {
   return (    
       <div className="container App" style={{height:'100vh'}}>
       <div className="intro text-center">
-      <span id="Name" style={{fontSize:'2rem'}}> Manav Shah</span>
+      <span id="Name" style={{fontSize:'2rem', fontWeight:'100'}}> Manav Shah</span>
       <br />
       <span id="DOB" style={{fontSize:'0.8rem'}}>DOB:- 10-11-2001</span>
       <br />
