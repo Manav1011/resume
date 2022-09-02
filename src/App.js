@@ -8,7 +8,7 @@ function App() {
       <br />
       <span id="DOB" style={{fontSize:'0.8rem'}}>DOB:- 10-11-2001</span>
       <br />
-      <span id="emailphone"  style={{fontSize:'0.8rem'}}><i class="bi bi-envelope"> manavshah1011.ms@gmail.com</i> | <i class="bi bi-telephone"> +91 9925717005 </i> | <i class="bi bi-github"> Github:- <span className="link"></span><a href="https://github.com/Manav1011" className="link-primary">Manav1011</a></i></span>
+      <span id="emailphone"  style={{fontSize:'0.8rem'}}><i class="bi bi-envelope"> manavshah1011.ms@gmail.com</i> | <i class="bi bi-telephone"> +91 9925717005 </i> <br /> <i class="bi bi-github"> <span className="link"></span><a href="https://github.com/Manav1011" className="link-primary">Manav1011</a></i></span>
       </div>
       <hr />      
       <div className="row">
@@ -43,7 +43,7 @@ function App() {
       <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> TailWind CSS</i></span>  <br />        
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> Bootstrap</i></span>  <br />      
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> Django REST framework, Celery, Django Channels</i></span>  <br />          
-        <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right">Data Structures and algoriths</i></span>  <br />  
+        <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right">Data Structures and algorithms</i></span>  <br />  
       </div>
       </div>
       </div>
@@ -99,13 +99,7 @@ function App() {
       </div>      
       </div>   
       </div>   
-      </div>
-      <div className="declaration mt-2 container text-center">
-        <div className="title fw-bold" style={{fontSize: '0.8rem'}}><u>Declaration</u></div>
-        <div className="content" style={{fontSize: '0.8rem'}}>
-        I hereby declare that all the details furnished above are true to the best of my knowledge and belief.
-        </div>
-      </div>
+      </div>      
       </div>
   );
 }
