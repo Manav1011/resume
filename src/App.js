@@ -25,7 +25,7 @@ function App() {
       <span id="Name" style={{fontSize:'1.2rem'}} className="fw-light">Skills</span>
       <br />
       <span id="Programming" className="ms-2 fw-bold">Language(s)</span>
-      <div className="education-details ms-2" style={{fontSize:'0.8rem'}}>
+      <div className="education-details mt-1  ms-2 mb-2" style={{fontSize:'0.8rem'}}>
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> Beginner Level - C, C++</i></span>  <br />        
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> Intermediate Level - Java, PHP</i></span>  <br />
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> Area of Expertise - Python</i></span>  <br />
@@ -34,12 +34,12 @@ function App() {
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> Little Experience in - Android  </i></span>  <br />
       </div>
       <span id="FrameWorks" className="ms-2 fw-bold">FrameWork(s)</span>
-      <div className="education-details ms-2" style={{fontSize:'0.8rem'}}>
+      <div className="education-details ms-2 mt-1 mb-2" style={{fontSize:'0.8rem'}}>
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> BACKEND - <span className= "text-success">Django Web framework (Expertise)</span></i></span>  <br />        
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> FRONTEND - <span className="text-primary">ReactJs (Beginner to intermediate)</span>  </i></span>  <br />
       </div>
       <span id="FrameWorks" className="ms-2 fw-bold">Other(s)</span>
-      <div className="education-details ms-2" style={{fontSize:'0.8rem'}}>
+      <div className="education-details ms-2 mt-2" style={{fontSize:'0.8rem'}}>
       <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> TailWind CSS</i></span>  <br />        
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> Bootstrap</i></span>  <br />      
         <span id="diploma" className="text-capitalize text-left"><i className="bi bi-arrow-right"> Django REST framework, Celery, Django Channels</i></span>  <br />          
