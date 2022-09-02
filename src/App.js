@@ -9,6 +9,7 @@ function App() {
       <span id="DOB" style={{fontSize:'0.8rem'}}>DOB:- 10-11-2001</span>
       <br />
       <span id="emailphone"  style={{fontSize:'0.8rem'}}><i class="bi bi-envelope"> manavshah1011.ms@gmail.com</i> | <i class="bi bi-telephone"> +91 9925717005 </i> <br /> <i class="bi bi-github"><span className="link"></span><a href="https://github.com/Manav1011" className="link-primary">Manav1011</a></i></span>
+      </div>
       <hr />      
       <div className="row">
       <div className="col-6 border-end">
@@ -99,8 +100,7 @@ function App() {
       </div>   
       </div>   
       </div>      
-      </div>
-      </div>
+      </div>  
   );
 }
 
